@@ -5,10 +5,6 @@ builtin:
     - anysphere.cursor-resolver
     - anysphere.cursor-retrieval
     - undefined.cursor-themes
-disabled:
-  - axosoft.gitkraken-glo
-  - eamodio.gitlens
-  - eamodio.gitlens-insiders
 enabled:
   - id: anysphere.cursorpyright
     uuid: d7f9f831-2239-4783-9d06-18d27f285818
