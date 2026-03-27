@@ -19,6 +19,8 @@ enabled:
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: interiorworx.vscode-ns-ts
     uuid: d9f95f5f-9bde-4a49-a4dd-e3b0e029d07a
+  - id: johnpapa.vscode-peacock
+    uuid: 5a7017bf-c571-4d77-b902-6e56b16f539a
   - id: mechatroner.rainbow-csv
     uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: ms-azuretools.vscode-containers
