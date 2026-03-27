@@ -11,10 +11,16 @@ enabled:
     uuid: d7f9f831-2239-4783-9d06-18d27f285818
   - id: anysphere.remote-wsl
     uuid: 39a52826-2472-403d-8410-37905302f26a
-  - id: inferrinizzard.prettier-sql-vscode
-    uuid: 386997b1-f715-42f5-91e4-618a439c19b8
-  - id: lyzerk.linecounter
-    uuid: 290fc136-f19b-43b3-a5a2-27a4a8a42fae
+  - id: bradlc.vscode-tailwindcss
+    uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: editorconfig.editorconfig
+    uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: mechatroner.rainbow-csv
     uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: ms-azuretools.vscode-docker
@@ -35,8 +41,14 @@ enabled:
     uuid: 11858313-52cc-4e57-b3e4-d7b65281e34b
   - id: ms-vscode.remote-server
     uuid: 105c0b3c-07a9-4156-a4fc-4141040eb07e
-  - id: svipas.prettier-plus
-    uuid: 7ebc60c0-0f2b-496e-8d82-0f7f474fa4dd
+  - id: nsupload-org.netsuite-upload
+    uuid: 29a69140-99f9-4374-935d-73327bcc6d10
+  - id: Oracle.suitecloud-vscode-extension
+    uuid: ab0ec1b0-3132-41ca-939b-28d18b94d065
+  - id: rust-lang.rust-analyzer
+    uuid: 06574cb4-e5dc-4631-8174-a543a4533621
+  - id: tauri-apps.tauri-vscode
+    uuid: 53763e89-ec31-4d0c-b220-f714761180e5
   - id: tomoki1207.pdf
     uuid: 6db08635-0c6a-45ba-9a4b-8c3e192c63c2
   - id: zokugun.cron-tasks
