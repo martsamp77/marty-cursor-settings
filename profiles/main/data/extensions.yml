@@ -1,0 +1,11 @@
+builtin:
+  disabled:
+    - anysphere.cursor-agent-exec
+    - anysphere.cursor-always-local
+    - anysphere.cursor-resolver
+    - anysphere.cursor-retrieval
+    - undefined.cursor-themes
+disabled: []
+enabled:
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
