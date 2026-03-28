@@ -1,4 +1,6 @@
 {
     "workbench.colorTheme": "Default Light Modern",
-    "redhat.telemetry.enabled": true
+    "redhat.telemetry.enabled": true,
+    "explorer.confirmDelete": false,
+    "git.confirmSync": false
 }
